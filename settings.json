@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "minecraftserver5689.aternos.me",
-    "port": 44818,
+    "ip": "McCloud_Craft.aternos.me",
+    "port": 39458,
     "version": "1.26.1",
     "try-creative": false
   },
